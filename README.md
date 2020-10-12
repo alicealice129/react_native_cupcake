@@ -1,6 +1,6 @@
 ## React Native アプリ (概要)
-このアプリは、下記の以前作成したPHPを使った架空のサイト(https://github.com/alicealice129/final01)に似せて作成したReact Nativeアプリです。オリジナルカップケーキのサイトです。　　
-Courseraで学んだことを元に作成しました。英語で学んだため英語で作成しています。
+- このアプリは、下記の以前作成したPHPを使った架空のサイト(https://github.com/alicealice129/final01) に似せて作成したReact Nativeアプリです。オリジナルカップケーキのサイトです。　　
+- Courseraで学んだことを元に作成しました。英語で学んだため英語で作成しています。
 
 ## スキル/ This app uses some skills of Native React as below.
 - Components, Navigation, Icons and Buttons, Redux, Activity Indicator, Redux Adding Favorites, Forms, Modal, Deleting Favorite, Alert, Animation, Animatable, Gestures, Persist Redux Store, Secure Store, Local Notifications, Sending Email, Social Sharing, Picking an Image, Image Manuplator, Network Info  
