@@ -13,6 +13,12 @@
 - コンタクト画面、メール送信  
 - 予約画面
 
+## サイトのイメージ
+<img src="https://github.com/alicealice129/react_native_cupcake/blob/master/screenshots/Screenshot_Expo_home.jpg" width="200px">
+他の画像は以下より確認できます。<br>
+https://github.com/alicealice129/react_native_cupcake/tree/master/screenshots  
+
+
 ## Initial Setup
 
 - Getting Started with React Native
